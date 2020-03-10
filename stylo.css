@@ -12,3 +12,8 @@ p {
   font-family: verdana;
   font-size: 20px;
 }
+
+div#a {background-color: green;}
+#a {background-color: yellow;}
+div[id=a] {background-color: blue;}
+
